@@ -27,12 +27,12 @@ assets:
   - {seq: 4, filename: KR2o0016_004.yaml, hash: 'sha256:241a076c143d6e796694474444bcce2d28e665ee90624be279aab1aced60e785'}
   - {seq: 5, filename: KR2o0016_005.yaml, hash: 'sha256:65675fb2b1aae37b240c91c5e3763aca26babb8e42a06e4aed2fe86eabe46dfb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2o0016_000.markers.yaml, hash: 'sha256:1c29a59973ce42ea112afb7ae9b74c940eb8a3f59518dc07f467b76e1db27060'}
-  - {seq: 1, role: markers, filename: assets/KR2o0016_001.markers.yaml, hash: 'sha256:8d54fa3ecd2ab0c51082cbbe65825296897ea710cf96eb4beb17874a64246465'}
-  - {seq: 2, role: markers, filename: assets/KR2o0016_002.markers.yaml, hash: 'sha256:6c9462f3229f634b9b79ab7363a3aa0462dd09cf1b10df5c864523be3d9120e8'}
-  - {seq: 3, role: markers, filename: assets/KR2o0016_003.markers.yaml, hash: 'sha256:0ae32c55660ca5cdaf8f18c557f93fc983c17651b821e6b891e8bf7b9feb7fae'}
-  - {seq: 4, role: markers, filename: assets/KR2o0016_004.markers.yaml, hash: 'sha256:ca80e182769848ae52791e78c0dd65f128d829aa0218f36d0506000d9fa0bbf3'}
-  - {seq: 5, role: markers, filename: assets/KR2o0016_005.markers.yaml, hash: 'sha256:9e9e1880eaeafadc8fd00da43020a71de2395366a645950b5578fd4b530a9ced'}
+  - {seq: 0, role: markers, filename: assets/KR2o0016_000.markers.yaml, hash: 'sha256:d9ba3899bf4318214c4844fa33b2a8f8d1d0dcae080659fef21a4f9e96527a1b'}
+  - {seq: 1, role: markers, filename: assets/KR2o0016_001.markers.yaml, hash: 'sha256:4cb05534f7da02bcb5a2b32c49cdc3e07990f1bc24c31ffbe2aad6728f6f6720'}
+  - {seq: 2, role: markers, filename: assets/KR2o0016_002.markers.yaml, hash: 'sha256:1a3ed8bae5fa1b5e431f22108dc5a815a99c1a27f3358a14136ec28ba7a852e6'}
+  - {seq: 3, role: markers, filename: assets/KR2o0016_003.markers.yaml, hash: 'sha256:5a1699d5274514aa1d0af0bbec2288761962a86dccb9c5aec219747d296b555c'}
+  - {seq: 4, role: markers, filename: assets/KR2o0016_004.markers.yaml, hash: 'sha256:df2e1acc23a312dff451fe1d5307390b278eaaa360cccdb33ec6f574fcc36eea'}
+  - {seq: 5, role: markers, filename: assets/KR2o0016_005.markers.yaml, hash: 'sha256:85c6e316fc654da67532c6a14387a394c8b900a11cf1839336538310726507f3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -104,7 +104,7 @@ table_of_contents:
   label: 歴代通畧蒙求
   type: section
   level: 1
-hash: sha256:32b2cc7d6dbc164e575f0481b597cb4c04df9fdb782f64cd578d13d519da5da6
+hash: sha256:56203c3660d987528bd34c6d7c0f40f82e6a680e7f97311826ced935607b3104
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

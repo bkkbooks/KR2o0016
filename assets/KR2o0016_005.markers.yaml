@@ -426,6 +426,7 @@ markers:
       ', id: KR2o0016_krp_005-bkkkrnewl53}
   - {type: line-break, offset: 1125, content: '', id: KR2o0016_WYG_005-3b08}
   - {type: punctuation, offset: 1136, content: (, id: KR2o0016_krp_005-bkkpn178}
+  - {type: 'voice:problem', offset: 1136, length: 0, id: KR2o0016_bkk_005-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 1136}
   - {type: punctuation, offset: 1141, content: /, id: KR2o0016_krp_005-bkkpn179}
   - {type: substitution, offset: 1145, original: 増, replacement: 增, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20766}}
   body:
@@ -439,6 +440,7 @@ markers:
       ', id: KR2o0016_krp_005-bkkkrnewl2}
   - {type: line-break, offset: 0, content: '', id: KR2o0016_WYG_005-4a01}
   - {type: indent, offset: 0, content: 　, id: KR2o0016_krp_005-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2o0016_bkk_005-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: substitution, offset: 5, original: 䝉, replacement: 蒙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4689}}
   - {type: substitution, offset: 11, original: 掲, replacement: 揭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20777}}
   - {type: substitution, offset: 12, original: 歴, replacement: 歷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20788}}
@@ -474,4 +476,4 @@ markers:
 
       ', id: KR2o0016_krp_005-bkkkrnewl8}
   back: []
-hash: sha256:9e9e1880eaeafadc8fd00da43020a71de2395366a645950b5578fd4b530a9ced
+hash: sha256:85c6e316fc654da67532c6a14387a394c8b900a11cf1839336538310726507f3
